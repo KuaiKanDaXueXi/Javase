@@ -2,7 +2,7 @@ package com.xian.test;
 
 public class Student {
     private String name;
-    private int age;
+    private Integer age;
     private char sex;
 
     public Student() {
